@@ -1,0 +1,11 @@
+.selection {
+  display: flex;
+  justify-content: flex-start;
+  width: 70%;
+  gap: 30px;
+}
+
+.selection > button {
+  cursor: pointer;
+  width: 9rem;
+}
